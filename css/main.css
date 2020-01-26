@@ -2,14 +2,24 @@
   width: 25%;
   border: 1px solid red;
   display: inline-block;
-  margin-right: 5%;
+  margin-right: 10px;
+  margin-top: 10px;
+
 }
 #menu{
   margin-top: 10px;
   border: 1px solid green;
+  text-align: center;
 }
-#main{
+header, #main{
   max-width: 1200px;
   margin-right: auto;
   margin-left: auto;
+}
+header>span{
+  display: inline-block;
+  width: 50%;
+}
+header{
+
 }
