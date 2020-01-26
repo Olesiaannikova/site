@@ -6,6 +6,18 @@
   margin-top: 10px;
 
 }
+#logo {
+  vertical-align: middle;
+  position: relative;
+  height: 50px;
+  display: block;
+}
+#logo>#title{
+  position:absolute;
+  bottom: 30%;
+  padding-left: 10px;
+  color: #ffcb57;
+}
 #menu{
   margin-top: 10px;
   border: 1px solid green;
