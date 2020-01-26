@@ -25,6 +25,9 @@
   color: black;
   text-decoration: rebeccapurple;
 }
+#breadcrumbs>.active{
+  color: #ffcb57;
+}
 #menu{
   margin-top: 10px;
   border: 1px solid green;
