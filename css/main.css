@@ -18,6 +18,13 @@
   padding-left: 10px;
   color: #ffcb57;
 }
+#breadcrumbs {
+  margin-top: 5px;
+}
+#breadcrumbs>a{
+  color: black;
+  text-decoration: rebeccapurple;
+}
 #menu{
   margin-top: 10px;
   border: 1px solid green;
