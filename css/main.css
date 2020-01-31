@@ -1,6 +1,5 @@
 .menu-item{
   width: 25%;
-  border: 1px solid red;
   display: inline-block;
   margin-right: 10px;
   margin-top: 10px;
@@ -16,7 +15,7 @@
   position:absolute;
   bottom: 30%;
   padding-left: 10px;
-  color: #ffcb57;
+  color: #254d0d;
 }
 #breadcrumbs {
   margin-top: 5px;
@@ -26,12 +25,11 @@
   text-decoration: rebeccapurple;
 }
 #breadcrumbs>.active{
-  color: #ffcb57;
+  color:   #254d0d;
 }
 #menu{
   margin-top: 10px;
-  border: 1px solid green;
-  text-align: center;
+   text-align: center;
 }
 header, #main{
   max-width: 1200px;
@@ -41,7 +39,4 @@ header, #main{
 header>span{
   display: inline-block;
   width: 50%;
-}
-header{
-
 }
