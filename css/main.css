@@ -40,3 +40,10 @@ header>span{
   display: inline-block;
   width: 50%;
 }
+#table{
+  display: inline-block;
+  text-align:center;
+  margin-right:auto;
+  margin-left:auto;
+  max-width: 1200px;
+}
